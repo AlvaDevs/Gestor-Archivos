@@ -63,7 +63,6 @@ gestor-archivos/
 └── LICENSE
 
 ## 👨‍💻 Autor
-## 👨‍💻 Autor
 
 Este proyecto fue creado por [AlvaDevs](https://github.com/AlvaDevs) como parte de mi proceso de aprendizaje en automatización y scripting con Python.  
 Me gusta construir herramientas simples pero útiles que me ayuden a entender mejor cómo funcionan los sistemas y cómo optimizar tareas repetitivas.  
